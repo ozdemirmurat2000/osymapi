@@ -15,7 +15,6 @@ go.work
 *.swo
 
 # Ortam değişkenleri
-.env
 
 # Uygulama dosyaları
 tmp/
